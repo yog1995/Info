@@ -1,2 +1,0 @@
-# Info
-Infosys Demo
